@@ -16,7 +16,7 @@ export default function Hero() {
               <span className='text-gradient-primary'>your product</span>
             </h1>
             <p className='mt-6 mx-auto max-w-2xl text-lg leading-8 text-muted-foreground'>
-              With some more exciting words about your product!
+              We got some changes going on .
             </p>
             <div className='mt-10 flex items-center justify-center gap-x-6'>
               <Button size='lg' variant='outline' asChild>
